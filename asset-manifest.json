@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/reactprep/static/css/main.cc3517d9.css",
-    "main.js": "/reactprep/static/js/main.a86c954d.js",
-    "index.html": "/reactprep/index.html",
-    "main.cc3517d9.css.map": "/reactprep/static/css/main.cc3517d9.css.map",
-    "main.a86c954d.js.map": "/reactprep/static/js/main.a86c954d.js.map"
+    "main.css": "/movie-api-update/static/css/main.cc3517d9.css",
+    "main.js": "/movie-api-update/static/js/main.a86c954d.js",
+    "index.html": "/movie-api-update/index.html",
+    "main.cc3517d9.css.map": "/movie-api-update/static/css/main.cc3517d9.css.map",
+    "main.a86c954d.js.map": "/movie-api-update/static/js/main.a86c954d.js.map"
   },
   "entrypoints": [
     "static/css/main.cc3517d9.css",
